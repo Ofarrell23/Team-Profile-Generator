@@ -1,6 +1,6 @@
 const inquirer = require('inquirer');
 const fs = require('fs');
-const generatePage = require('./src/page-template.js')
+const generatePage = require('./template/page-template.js')
 const formatName = require('./utils/helper');
 const allEmployees = [];
 
@@ -14,7 +14,7 @@ const questions = [
             if (allEmployees.some(employee => employee.role === 'Manager')) {
                 return ['Engineer', 'Intern']    
             } else {
-                return ['Manager', 'Engineer', 'Intern']
+                return ['Manager', 'Engineer', 'Employee', 'Intern',]
             }
         }
     },
@@ -159,4 +159,3 @@ promptUser()
     .then(data => generatePage(data))
     .then(generatedHtml => writePage(generatedHtml))
     .catch(err => console.log(err));
-    
