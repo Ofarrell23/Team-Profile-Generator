@@ -7,7 +7,7 @@ A Node.js application to create a simple webpage featuring your development team
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Screenshots](#Screenshots)
-* [Video Demo](#Video Demo)
+* [Video Demo](#VideoDemo)
 * [Tests](#Tests)
 * [Questions](#Questions)
 * [Credits](#Credits)
