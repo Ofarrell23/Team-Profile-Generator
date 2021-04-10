@@ -6,8 +6,8 @@ A Node.js application to create a simple webpage featuring your development team
 ## Contents
 * [Installation](#Installation)
 * [Usage](#Usage)
-* [Screenshots](#Screenshots)
 * [Video Demo](#VideoDemo)
+* [Screenshots](#Screenshots)
 * [Tests](#Tests)
 * [Questions](#Questions)
 * [Credits](#Credits)
@@ -49,5 +49,10 @@ and run `npm run test` from the command line.
 If you have any questions about the repo, please [open an issue](https://github.com/Ofarrell23/Team-Profile-Generator/issues or contact me via email at keyabug@gmail.com. You can find more of my work on my GitHub, [Ofarrell23](https://github.com/Ofarrell23/).
     
 ## Credits
+Below is a list of third-party tutorials used to help facilitate this project. There were no collaborators for this project.
+
+* [Credits] (https://www.w3schools.com/tags/att_img_alt.asp)
+* [Credits] (https://www.vikingcodeschool.com/html5-and-css3/html5-semantic-tags)
+* [Credits] (https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * Styles for the generated page powered by [Bulma](https://bulma.io/).
 * Employee icons furnished by [Font Awesome](https://fontawesome.com/).
