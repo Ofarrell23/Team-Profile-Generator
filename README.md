@@ -7,7 +7,7 @@ A Node.js application to create a simple webpage featuring your development team
 * [Installation](#Installation)
 * [Usage](#Usage)
 * [Screenshots](#Screenshots)
-* [Video](#Video)
+* [Video Demo](#Video Demo)
 * [Tests](#Tests)
 * [Questions](#Questions)
 * [Credits](#Credits)
@@ -46,10 +46,8 @@ npm install jest
 and run `npm run test` from the command line.
     
 ## Questions
-If you have any questions about the repo, please [open an issue](https://github.com/Ofarrell23/Team-Profile-Generator/issues or contact me via email at keyabug@gmail.com. You can find more of my work on my GitHub, [ofarrell23](https://github.com/Ofarrell23/).
+If you have any questions about the repo, please [open an issue](https://github.com/Ofarrell23/Team-Profile-Generator/issues or contact me via email at keyabug@gmail.com. You can find more of my work on my GitHub, [Ofarrell23](https://github.com/Ofarrell23/).
     
 ## Credits
 * Styles for the generated page powered by [Bulma](https://bulma.io/).
 * Employee icons furnished by [Font Awesome](https://fontawesome.com/).
-* Encouragement and solidarity provided by Curtis Lane, TA extrordinaire. 
-* Application created by Mila Decker with manic highs and depressive lows.
